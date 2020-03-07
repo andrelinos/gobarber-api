@@ -1,2 +1,2 @@
 # gobarber-api
-:smily:  Criação da API GoBarber
+:smiley:  Criação da API GoBarber
