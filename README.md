@@ -1,7 +1,7 @@
 :smiley: 
 
 # GoBarber - API
-[![N|GoBarber](https://github.com/andrelinos/gobarber-api/blob/master/logogobarber.png?raw=true)](https://nodesource.com/products/nsolid)
+[![N|GoBarber](https://github.com/andrelinos/gobarber-api/blob/master/logogobarber.png?raw=true)](https://github.com/andrelinos/)
 
 # Bancos de dados
 ## Redis
