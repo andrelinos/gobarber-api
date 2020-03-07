@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
-:smiley: 
-
->>>>>>> bbe2836e719795c4a3d415e22c6016d6aa83c27a
+:smiley:
 # GoBarber - API
 [![N|GoBarber](https://github.com/andrelinos/gobarber-api/blob/master/logogobarber.png?raw=true)](https://github.com/andrelinos/)
 
@@ -22,14 +18,10 @@ docker run --name mongobarber -p 27017:27017 -d -t mongo
   - docker start database // inicia o banco de dados da aplicação
   - docker start mongobarber // inicia o banco não relacional para controle de agendamentos
 
-<<<<<<< HEAD
+
   - yarn dev // rodar a aplicação na api
   - yarn queue // tratar as filas de cancelamento e envio de e-mail
   - yarn start // executa a aplicação no browser
-=======
-  - yarn dev // rodar a aplicação
-  - yarn queue // tratar as filas de cancelamento e envio de e-mail
->>>>>>> bbe2836e719795c4a3d415e22c6016d6aa83c27a
 ```
 
 ## Acessos externos
@@ -83,10 +75,9 @@ docker run --name mongobarber -p 27017:27017 -d -t mongo
 	"confirmPassword": "123456789"
 }
 ```
-<<<<<<< HEAD
-=======
+
 ### Dependecies
-```js 
+```js
 "dependencies": {
     "@sentry/node": "5.9.0",
     "bcryptjs": "^2.4.3",
@@ -115,7 +106,7 @@ docker run --name mongobarber -p 27017:27017 -d -t mongo
   },
 ```
 ### devDependencies
-```js 
+```js
  "devDependencies": {
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
@@ -128,7 +119,6 @@ docker run --name mongobarber -p 27017:27017 -d -t mongo
     "sucrase": "^3.10.1"
   }
 ```
->>>>>>> bbe2836e719795c4a3d415e22c6016d6aa83c27a
 
 License
 ----
