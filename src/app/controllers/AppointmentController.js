@@ -35,6 +35,10 @@ class AppointmentControler {
       ],
     });
 
+    if (appointments <= null) {
+      return res.json({ error: 'No appointments.' });
+    }
+
     return res.json(appointments);
   }
 
